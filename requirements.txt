@@ -1,2 +1,6 @@
 PIL
 selenium
+shutil
+threading
+os
+requests
