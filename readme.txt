@@ -1,4 +1,4 @@
-this is a shitty program i wrote when i was half asleep :) 
-you can use it to download books from the archive.org emergency library 
-You must first borrow the book for this program to work then you can run this program and return it if u fancy 
-also be sure to download the chromedriver for chrome (if you want me to add intergration for other browsers then tell me somehow)
+<h1>Archive.org Book Cloner </h1>
+During the 2019-Present pandemic <a href="https://openlibrary.org/">OpenLibarary (archive.org) </a> opened an emergency library for one time borrowing of books<br>
+Honorable as this endavour is some people may need to read/consume this content offline or multiple times<br>
+This simple little python program opens the door for that possibility.
