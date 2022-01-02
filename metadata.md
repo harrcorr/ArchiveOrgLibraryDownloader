@@ -1,1 +1,1 @@
-{"img": "http://blog.archive.org/wp-content/uploads/2020/04/NELheart.png"}
+{"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/1200px-Internet_Archive_logo_and_wordmark.svg.png"}
